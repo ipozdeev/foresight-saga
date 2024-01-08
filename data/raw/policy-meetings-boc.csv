@@ -1,4 +1,4 @@
-date_meeting,rate,scheduled,rate_change,date_effective
+date_meeting,rate,is_scheduled,rate_change,date_effective
 2000-12-05,5.75,TRUE,0,2000-12-05
 2001-01-23,5.5,TRUE,-0.25,2001-01-23
 2001-03-06,5,TRUE,-0.5,2001-03-06
