@@ -1,0 +1,3 @@
+- ecb: changed time of announcement from 13:45 to 14:15 (CET) from 21-jul-2022;
+- riks: with effect from 2024 they will hold eight instead of five monetary policy meetings per year;
+- 
