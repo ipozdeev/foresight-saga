@@ -2,6 +2,8 @@
 
 fx rates ahead of monetary policy meetings around the globe; implementation of dmitry borisenko and igor pozdeev's paper ([ssrn link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2983043)).
 
+![](output/figures/main.gif)
+
 # installation
 
 ```
